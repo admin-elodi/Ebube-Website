@@ -1,0 +1,28 @@
+
+.dark-box {
+    background-color: blue;
+    color: white;
+    height:50vh;
+    width: 70vw;    
+}
+.flex-row {
+    column-gap: 62.5px;
+    min-height: 40vh;
+}
+.map-box {
+    background-color: lightgrey;
+    color: white;
+    height:30vh;
+    width: 80vw;    
+}
+footer {
+    height: 0vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 0 auto;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+}
